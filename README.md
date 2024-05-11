@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sg41&layout=compact)](https://github.com/sg41/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sg41&layout=full)](https://github.com/sg41/github-readme-stats)
 <!--
 **sg41/sg41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
