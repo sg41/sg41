@@ -1,8 +1,11 @@
 ### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sg41&layout=compact)](https://github.com/sg41/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sg41&layout=compact)
 <!--
 **sg41/sg41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sg41&theme=onelight)](https://github.com/sg41/github-profile-trophy)
+![](https://komarev.com/ghpvc/?username=sg41&color=green)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
