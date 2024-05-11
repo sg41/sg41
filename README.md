@@ -1,21 +1,6 @@
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-
-<div class="header">
-    <h1>My GitHub Profile</h1>
-    <p> under development!</p>
-</div>
-
-</body>
-</html>
-
-<!--
 ### Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sg41&layout=compact)](https://github.com/sg41/github-readme-stats)
+<!--
 **sg41/sg41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
