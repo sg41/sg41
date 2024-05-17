@@ -4,6 +4,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sg41&row=1&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/serge265)
+
 <!--
 **sg41/sg41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
