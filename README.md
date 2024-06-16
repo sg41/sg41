@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sg41&layout=compact&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sg41&size_weight=0.5&count_weight=0.5)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sg41&row=1&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
